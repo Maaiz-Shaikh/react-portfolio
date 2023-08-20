@@ -1,0 +1,12 @@
+/* Footer.css */
+.footer {
+    background-color: #333;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.footer-content {
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+}

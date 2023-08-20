@@ -52,5 +52,8 @@ h2 {
     color: #ff9900;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 /* Add more styles as needed */

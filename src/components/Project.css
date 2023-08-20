@@ -1,0 +1,28 @@
+/* Project.css */
+.project {
+    display: flex;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.project-icon {
+    margin-right: 1rem;
+    font-size: 2rem;
+}
+
+.project-details {
+    flex: 1;
+}
+
+.project-details h3 {
+    margin: 0;
+}
+
+.project-details p {
+    margin: 0.5rem 0;
+}
+
+.project-details a {
+    color: #007bff;
+    text-decoration: none;
+}
